@@ -32,7 +32,7 @@
 Держит тренировки, питание, сон, воду и прогресс в одном мобильном сценарии. Локальные данные и offline-first логика позволяют пользоваться основными функциями без постоянной сети.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE — открыть витрину" width="520" /></a>
+  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE — открыть витрину" width="400" /></a>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 Ведёт от ссылок и параметров товара до расчёта доставки и комиссий. В конце собирает структурированную заявку для передачи оператору.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot — открыть витрину" width="520" /></a>
+  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot — открыть витрину" width="400" /></a>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@
 Урок, Monaco-редактор и реальный запуск Python через Pyodide живут в одном экране. Выполнение вынесено в Web Worker, чтобы практика не блокировала интерфейс.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Кодограф ВВГУ — открыть витрину" width="520" /></a>
+  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Кодограф ВВГУ — открыть витрину" width="400" /></a>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@
 Адаптивная витрина пекарни проводит пользователя от каталога и корзины через пятишаговый checkout. Сервер заново считает итог и проверяет входные данные заказа.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel — открыть витрину" width="520" /></a>
+  <a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel — открыть витрину" width="400" /></a>
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@
 Восемь связанных сцен раскрывают процедурную модель через свет, материалы, звук и прокрутку. Для ограниченных устройств предусмотрены облегчённая сцена, WebGL fallback и reduced motion.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1 — открыть витрину" width="520" /></a>
+  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1 — открыть витрину" width="400" /></a>
 </p>
 
 <p align="center">
@@ -130,7 +130,7 @@
 Прогноз проходит от групп и лучших третьих мест до плей-офф, наград и экспорта. Связанное состояние, миграции и тесты сохраняют целостность турнирного маршрута.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor — открыть витрину" width="520" /></a>
+  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor — открыть витрину" width="400" /></a>
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@
 Темы для собеседований превращены в короткие объяснения, тесты, лаборатории и учебный терминал. Команды разбираются внутри безопасной симуляции, а не выполняются в системе пользователя.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux &amp; DevOps Trainer — открыть витрину" width="520" /></a>
+  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux &amp; DevOps Trainer — открыть витрину" width="400" /></a>
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@
 План нативного каталога с поиском, карточкой фильма, избранным и легальными трейлерами. Разработка ещё не начата: витрина честно фиксирует границы первой версии и критерии готовности.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS — открыть план проекта" width="520" /></a>
+  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS — открыть план проекта" width="400" /></a>
 </p>
 
 <p align="center">

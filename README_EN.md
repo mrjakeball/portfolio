@@ -32,7 +32,7 @@ Two projects with a direct way into the product: a mobile PWA and a Telegram bot
 Keeps workouts, nutrition, sleep, hydration and progress in one mobile flow. Local data and offline-first behaviour keep the core experience available without a permanent connection.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="Open the TEMPO PULSE showcase" width="520" /></a>
+  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="Open the TEMPO PULSE showcase" width="400" /></a>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Keeps workouts, nutrition, sleep, hydration and progress in one mobile flow. Loc
 Guides a user from product links and options to delivery and fee estimates. It finishes by preparing a structured request for an operator.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="Open the X-TREME Shop Bot showcase" width="520" /></a>
+  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="Open the X-TREME Shop Bot showcase" width="400" /></a>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ An educational editor and a commerce checkout: two complete user journeys.
 A lesson, Monaco editor and real Pyodide-powered Python execution share one screen. A Web Worker isolates execution so practice does not freeze the interface.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Open the Kodograf VVGU showcase" width="520" /></a>
+  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Open the Kodograf VVGU showcase" width="400" /></a>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ A lesson, Monaco editor and real Pyodide-powered Python execution share one scre
 The responsive bakery storefront leads from catalogue and cart through a five-step checkout. The server recalculates the total and validates the order data again.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Open the Pashtel showcase" width="520" /></a>
+  <a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Open the Pashtel showcase" width="400" /></a>
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ Projects whose experience depends on controlled motion and connected rules.
 Eight connected scenes reveal a procedural model through light, materials, sound and scrolling. A lighter scene, WebGL fallback and reduced motion support constrained devices.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="Open the NOCTRA / LUCID-1 showcase" width="520" /></a>
+  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="Open the NOCTRA / LUCID-1 showcase" width="400" /></a>
 </p>
 
 <p align="center">
@@ -130,7 +130,7 @@ Eight connected scenes reveal a procedural model through light, materials, sound
 The prediction flows from groups and best third-placed teams to knockouts, awards and export. Connected state, migrations and tests preserve the integrity of the tournament journey.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="Open the World Cup 2026 Predictor showcase" width="520" /></a>
+  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="Open the World Cup 2026 Predictor showcase" width="400" /></a>
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@ The prediction flows from groups and best third-placed teams to knockouts, award
 Interview topics become short explanations, tests, labs and a learning terminal. Commands are parsed inside a safe simulation instead of running on the user's system.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Open the Linux and DevOps Trainer showcase" width="520" /></a>
+  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Open the Linux and DevOps Trainer showcase" width="400" /></a>
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@ Interview topics become short explanations, tests, labs and a learning terminal.
 A plan for a native catalogue with search, title details, favourites and legal trailers. Development has not started: the showcase honestly records the first-version boundaries and definition of ready.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="Open the CineFlow iOS project plan" width="520" /></a>
+  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="Open the CineFlow iOS project plan" width="400" /></a>
 </p>
 
 <p align="center">
