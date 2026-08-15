@@ -126,7 +126,7 @@ Simplified scenarios and reduced-motion support are available for more constrain
 
 ### World Cup 2026 Predictor
 
-`REACT` · `STATE` · `VITEST` · `EXPORT`
+`REACT` · `ZUSTAND` · `VITEST` · `EXPORT`
 
 The prediction flow runs from the group stage and best third-placed teams through knockouts, individual awards and result export.
 
@@ -136,6 +136,8 @@ The prediction flow runs from the group stage and best third-placed teams throug
 
 <p align="center">
   <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><strong>View showcase →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://courageous-elf-34b597.netlify.app"><strong>Open site ↗</strong></a>
 </p>
 
 ---
