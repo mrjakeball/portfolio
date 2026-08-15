@@ -3,190 +3,201 @@
 </p>
 
 <p align="center">
-  <strong>Русский</strong> · <a href="./README_EN.md">English</a> · <a href="https://github.com/mrjakeball">Профиль GitHub</a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/РУССКИЙ-8B5CF6?style=for-the-badge" alt="Русский" height="30" /></a>
+  &nbsp;
+  <a href="./README_EN.md"><img src="https://img.shields.io/badge/ENGLISH-21262D?style=for-the-badge" alt="English" height="30" /></a>
+  &nbsp;
+  <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/ПРОФИЛЬ-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Вернуться в профиль" height="30" /></a>
 </p>
 
-# Проекты, в которые можно зайти
+# 🚀 Каталог проектов
 
-Это не склад скриншотов. Каждая обложка открывает отдельный репозиторий-витрину: внутри — компактная галерея, важные сценарии, технические решения и то, что ещё не закончено.
+Здесь собраны проекты, которые я готов **показать, объяснить и обсудить**.
+
+Каждая карточка ведёт в отдельную публичную витрину с интерфейсом, ключевыми сценариями, техническими решениями и текущими ограничениями.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WEB-161B22?style=flat-square&amp;logo=react&amp;logoColor=58A6FF" alt="Web" height="22" />
-  <img src="https://img.shields.io/badge/PYTHON-161B22?style=flat-square&amp;logo=python&amp;logoColor=8B5CF6" alt="Python" height="22" />
-  <img src="https://img.shields.io/badge/DEVOPS-161B22?style=flat-square&amp;logo=docker&amp;logoColor=58A6FF" alt="DevOps" height="22" />
-  <img src="https://img.shields.io/badge/QA-161B22?style=flat-square&amp;logo=checkmarx&amp;logoColor=8B5CF6" alt="QA" height="22" />
-  <img src="https://img.shields.io/badge/iOS_NEXT-161B22?style=flat-square&amp;logo=apple&amp;logoColor=8B5CF6" alt="iOS — следующий проект" height="22" />
+  <img src="https://img.shields.io/badge/🌐_WEB-21262D?style=for-the-badge" alt="Web" height="25" />
+  <img src="https://img.shields.io/badge/🐍_PYTHON-21262D?style=for-the-badge" alt="Python" height="25" />
+  <img src="https://img.shields.io/badge/⚙️_DEVOPS-21262D?style=for-the-badge" alt="DevOps" height="25" />
+  <img src="https://img.shields.io/badge/🧪_QA-21262D?style=for-the-badge" alt="QA" height="25" />
+  <img src="https://img.shields.io/badge/📱_iOS_NEXT-21262D?style=for-the-badge" alt="iOS next" height="25" />
 </p>
 
-> [!NOTE]
-> Это публичные витрины проектов, а не копии приватных репозиториев. Исходный код добавляется отдельно только после подготовки и проверки.
-
-## Доступно сейчас
-
-Два проекта с прямым входом в продукт: мобильный PWA и Telegram-бот.
-
-<sub><strong>ДОСТУПЕН · МОБИЛЬНЫЙ PWA · FITNESS</strong></sub>
-
-### TEMPO PULSE
-
-Держит тренировки, питание, сон, воду и прогресс в одном мобильном сценарии. Локальные данные и offline-first логика позволяют пользоваться основными функциями без постоянной сети.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE — открыть витрину" width="400" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><strong>Открыть витрину →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://tempo-fitness-pwa.pages.dev/"><strong>Запустить PWA ↗</strong></a>
-</p>
-
-<br>
+> ℹ️ **О репозиториях:** это публичные витрины проектов, а не копии приватных исходников. Код публикуется отдельно только после подготовки и проверки.
 
 ---
 
-<sub><strong>ДОСТУПЕН · TELEGRAM · ЗАКАЗЫ</strong></sub>
+## ✅ Можно запустить
 
-### X‑TREME Shop Bot
+### TEMPO PULSE
 
-Ведёт от ссылок и параметров товара до расчёта доставки и комиссий. В конце собирает структурированную заявку для передачи оператору.
+`PWA` · `REACT` · `TYPESCRIPT` · `FITNESS`
+
+Тренировки, питание, сон, вода и прогресс собраны в один мобильный сценарий.
+
+Локальное хранение и offline-first подход позволяют использовать основные возможности без постоянного подключения к сети.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot — открыть витрину" width="400" /></a>
+  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE" width="400" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><strong>Открыть витрину →</strong></a>
+  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><strong>Смотреть витрину →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://tempo-fitness-pwa.pages.dev/"><strong>Открыть PWA ↗</strong></a>
+</p>
+
+---
+
+### X-TREME Shop Bot
+
+`PYTHON` · `AIOGRAM` · `TELEGRAM` · `COMMERCE`
+
+Бот проводит пользователя от ссылки на товар и его параметров до расчёта доставки, комиссий и итоговой заявки.
+
+<p align="center">
+  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot" width="400" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><strong>Смотреть витрину →</strong></a>
   &nbsp;·&nbsp;
   <a href="https://t.me/XtremeShopBot"><strong>Открыть бота ↗</strong></a>
 </p>
 
-<br>
+---
 
-## Интерфейсы, которые что-то делают
-
-Образовательный редактор и торговый checkout — два законченных пользовательских маршрута.
-
-<sub><strong>ОБУЧЕНИЕ · PYTHON В БРАУЗЕРЕ</strong></sub>
+## 🎓 Учебные и продуктовые сценарии
 
 ### Кодограф ВВГУ
 
-Урок, Monaco-редактор и реальный запуск Python через Pyodide живут в одном экране. Выполнение вынесено в Web Worker, чтобы практика не блокировала интерфейс.
+`PYTHON` · `NEXT.JS` · `MONACO` · `PYODIDE`
+
+Урок, Monaco-редактор и реальный запуск Python находятся в одной браузерной среде.
+
+Выполнение вынесено отдельно, чтобы запуск кода не блокировал основной интерфейс.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Кодограф ВВГУ — открыть витрину" width="400" /></a>
+  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Кодограф ВВГУ" width="400" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><strong>Открыть витрину →</strong></a>
+  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><strong>Смотреть витрину →</strong></a>
 </p>
-
-<br>
 
 ---
-
-<sub><strong>ПРОДУКТОВЫЙ СЦЕНАРИЙ · E-COMMERCE</strong></sub>
 
 ### Pashtel
 
-Адаптивная витрина пекарни проводит пользователя от каталога и корзины через пятишаговый checkout. Сервер заново считает итог и проверяет входные данные заказа.
+`NEXT.JS` · `TYPESCRIPT` · `E-COMMERCE` · `UX`
+
+Адаптивная витрина пекарни ведёт пользователя от каталога и корзины до пошагового оформления заказа.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel — открыть витрину" width="400" /></a>
+  <a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel" width="400" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/pashtel-showcase"><strong>Открыть витрину →</strong></a>
+  <a href="https://github.com/mrjakeball/pashtel-showcase"><strong>Смотреть витрину →</strong></a>
 </p>
-
-<br>
-
-## Состояние, движение и правила
-
-Проекты, где впечатление держится на управляемом движении и связанных правилах.
-
-<sub><strong>ИНТЕРАКТИВ · ПРОЦЕДУРНЫЙ 3D</strong></sub>
-
-### NOCTRA / LUCID-1
-
-Восемь связанных сцен раскрывают процедурную модель через свет, материалы, звук и прокрутку. Для ограниченных устройств предусмотрены облегчённая сцена, WebGL fallback и reduced motion.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1 — открыть витрину" width="400" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><strong>Открыть витрину →</strong></a>
-</p>
-
-<br>
 
 ---
 
-<sub><strong>В РАЗРАБОТКЕ · ТУРНИРНАЯ ЛОГИКА</strong></sub>
+## 🧩 Интерактив и инженерная практика
+
+### NOCTRA / LUCID-1
+
+`REACT` · `THREE.JS` · `R3F` · `GSAP`
+
+Восемь связанных сцен раскрывают 3D-объект через свет, материалы, движение, звук и прокрутку.
+
+Для более слабых устройств предусмотрены упрощённые сценарии и reduced motion.
+
+<p align="center">
+  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1" width="400" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><strong>Смотреть витрину →</strong></a>
+</p>
+
+---
 
 ### World Cup 2026 Predictor
 
-Прогноз проходит от групп и лучших третьих мест до плей-офф, наград и экспорта. Связанное состояние, миграции и тесты сохраняют целостность турнирного маршрута.
+`REACT` · `STATE` · `VITEST` · `EXPORT`
+
+Прогноз проходит от группового этапа и лучших третьих мест до плей-офф, индивидуальных наград и экспорта результата.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor — открыть витрину" width="400" /></a>
+  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor" width="400" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><strong>Открыть витрину →</strong></a>
+  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><strong>Смотреть витрину →</strong></a>
 </p>
 
-<br>
+---
 
-## Практика вместо конспекта
-
-<sub><strong>ПРАКТИКА · LINUX / DEVOPS</strong></sub>
+## 🛠️ Linux & DevOps практика
 
 ### Linux & DevOps Trainer
 
-Темы для собеседований превращены в короткие объяснения, тесты, лаборатории и учебный терминал. Команды разбираются внутри безопасной симуляции, а не выполняются в системе пользователя.
+`PYTHON` · `LINUX` · `DEVOPS` · `TESTING`
+
+Темы по Linux и DevOps превращены в короткие объяснения, тесты, лаборатории и учебный терминал.
+
+Команды разбираются внутри безопасной симуляции и не выполняются напрямую в системе пользователя.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux &amp; DevOps Trainer — открыть витрину" width="400" /></a>
+  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux & DevOps Trainer" width="400" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><strong>Открыть витрину →</strong></a>
+  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><strong>Смотреть витрину →</strong></a>
 </p>
 
-<br>
+---
 
-## На чертёжном столе
-
-<sub><strong>ROADMAP · НАТИВНЫЙ iOS</strong></sub>
+## 📱 Следующий проект · iOS
 
 ### CineFlow
 
-План нативного каталога с поиском, карточкой фильма, избранным и легальными трейлерами. Разработка ещё не начата: витрина честно фиксирует границы первой версии и критерии готовности.
+`SWIFT` · `UIKIT` · `MVVM` · `ROADMAP`
+
+План нативного iOS-каталога с поиском, карточкой фильма, избранным и легальным воспроизведением трейлеров.
+
+Разработка ещё не начата — витрина фиксирует границы первой версии, архитектурное направление и критерии готовности.
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS — открыть план проекта" width="400" /></a>
+  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS" width="400" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><strong>Открыть план проекта →</strong></a>
+  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><strong>Посмотреть roadmap →</strong></a>
 </p>
+
+---
 
 <details>
-  <summary><strong>Все репозитории одним списком</strong></summary>
+<summary><strong>📂 Все проекты одним списком</strong></summary>
+
+<br />
 
 - [TEMPO PULSE](https://github.com/mrjakeball/tempo-pulse-showcase)
-- [X‑TREME Shop Bot](https://github.com/mrjakeball/xtreme-shop-bot-showcase)
+- [X-TREME Shop Bot](https://github.com/mrjakeball/xtreme-shop-bot-showcase)
 - [Кодограф ВВГУ](https://github.com/mrjakeball/kodograf-vvgu-showcase)
 - [Pashtel](https://github.com/mrjakeball/pashtel-showcase)
 - [NOCTRA / LUCID-1](https://github.com/mrjakeball/noctra-lucid-1-showcase)
 - [World Cup 2026 Predictor](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)
 - [Linux & DevOps Trainer](https://github.com/mrjakeball/linux-devops-trainer-showcase)
-- [CineFlow iOS — план проекта](https://github.com/mrjakeball/cineflow-ios-showcase)
+- [CineFlow iOS](https://github.com/mrjakeball/cineflow-ios-showcase)
 
 </details>
 
+<br />
+
 <p align="center">
-  <a href="https://github.com/mrjakeball">Вернуться в профиль GitHub</a>
+  <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/ВЕРНУТЬСЯ_В_ПРОФИЛЬ-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Вернуться в профиль" height="30" /></a>
 </p>
