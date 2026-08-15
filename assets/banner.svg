@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Aleksei Kuzmin — project directory</title>
+  <desc id="desc">Compact dark project directory banner with subtle animated technical lines.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117" />
+      <stop offset="0.52" stop-color="#111827" />
+      <stop offset="1" stop-color="#0D1117" />
+    </linearGradient>
+    <linearGradient id="accent" x1="210" y1="30" x2="990" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#58A6FF" />
+    </linearGradient>
+    <radialGradient id="violet" cx="0" cy="0" r="1" gradientTransform="translate(170 40) rotate(24) scale(330 170)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.17" />
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="blue" cx="0" cy="0" r="1" gradientTransform="translate(1030 225) rotate(-156) scale(330 165)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0.14" />
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#8B949E" stroke-opacity="0.075" />
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="260" rx="18" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="url(#background)" />
+    <rect width="1200" height="260" fill="url(#grid)" />
+    <rect width="1200" height="260" fill="url(#violet)" />
+    <rect width="1200" height="260" fill="url(#blue)" />
+
+    <path d="M-20 68H118L160 28H330" stroke="#8B5CF6" stroke-opacity="0.30" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 18">
+      <animate attributeName="stroke-dashoffset" from="0" to="-104" dur="12s" repeatCount="indefinite" />
+    </path>
+    <path d="M870 230H1034L1076 190H1220" stroke="#58A6FF" stroke-opacity="0.30" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 18">
+      <animate attributeName="stroke-dashoffset" from="0" to="104" dur="12s" repeatCount="indefinite" />
+    </path>
+
+    <circle r="4" fill="#8B5CF6">
+      <animateMotion path="M-20 68H118L160 28H330" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="8s" repeatCount="indefinite" />
+    </circle>
+    <circle r="4" fill="#58A6FF">
+      <animateMotion path="M1220 190H1076L1034 230H870" dur="9s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="9s" repeatCount="indefinite" />
+    </circle>
+
+    <rect x="228" y="42" width="744" height="176" rx="18" fill="#0D1117" fill-opacity="0.78" stroke="#30363D" stroke-opacity="0.50" />
+    <text x="600" y="88" text-anchor="middle" fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" letter-spacing="4">ALEKSEI KUZMIN</text>
+    <text x="600" y="143" text-anchor="middle" fill="#F0F6FC" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="40" font-weight="700" letter-spacing="5">PROJECT DIRECTORY</text>
+    <text x="600" y="181" text-anchor="middle" fill="#B7C3D4" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16" letter-spacing="1.3">open • inspect • explore<tspan fill="#8B5CF6">_<animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" repeatCount="indefinite" /></tspan></text>
+    <path d="M475 198H725" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-dasharray="44 16">
+      <animate attributeName="stroke-dashoffset" from="0" to="-60" dur="9s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="258.5" rx="17.25" stroke="url(#accent)" stroke-opacity="0.42" stroke-width="1.5" />
+</svg>
