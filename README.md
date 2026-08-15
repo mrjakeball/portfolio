@@ -126,7 +126,7 @@
 
 ### World Cup 2026 Predictor
 
-`REACT` · `STATE` · `VITEST` · `EXPORT`
+`REACT` · `ZUSTAND` · `VITEST` · `EXPORT`
 
 Прогноз проходит от группового этапа и лучших третьих мест до плей-офф, индивидуальных наград и экспорта результата.
 
@@ -136,6 +136,8 @@
 
 <p align="center">
   <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><strong>Смотреть витрину →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://courageous-elf-34b597.netlify.app"><strong>Открыть сайт ↗</strong></a>
 </p>
 
 ---
