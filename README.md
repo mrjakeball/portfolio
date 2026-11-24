@@ -1,15 +1,21 @@
-**RU** · [EN](README_EN.md)　 /　 [Профиль](https://github.com/mrjakeball)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ru-dark.svg">
   <img src="assets/ru-light.svg" alt="Каталог проектов" width="100%">
 </picture>
 
-Два репозитория содержат материалы практики. Семь витрин показывают интерфейсы и технические решения приватных приложений.
+<p>
+<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/ru-on.svg" height="32" alt="Русский · выбран"></a>
+<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/en-off.svg" height="32" alt="English"></a>
+<a href="https://github.com/mrjakeball"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/profile-ru.svg" height="32" alt="Профиль"></a>
+</p>
+
+**Приложения, тренажёры и инженерная практика.**
+
+В витринах приватных проектов собраны экраны и технические решения. Для самостоятельного запуска доступны коллекции Postman из раздела практики.
 
 ## Инженерная практика
 
-**[AppSec Labs](https://github.com/mrjakeball/appsec-labs)** — три отчёта Web Security, два исследования SAST и одна работа по функциональному тестированию API.
+**[AppSec Labs](https://github.com/mrjakeball/appsec-labs)** — контроль доступа, статический анализ Python и функциональные проверки REST API.
 
 **[Postman QA](https://github.com/mrjakeball/qa-learning-portfolio)** — коллекция JSONPlaceholder с тремя запросами GET и POST, которую можно импортировать и запустить.
 

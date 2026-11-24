@@ -1,15 +1,21 @@
-[RU](README.md) · **EN**　 /　 [Profile](https://github.com/mrjakeball/mrjakeball/blob/main/README_EN.md)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/en-dark.svg">
   <img src="assets/en-light.svg" alt="Project catalogue" width="100%">
 </picture>
 
-Two repositories contain hands-on exercises. Seven showcases document the interfaces and engineering decisions of private applications.
+<p>
+<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/ru-off.svg" height="32" alt="Русский"></a>
+<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/en-on.svg" height="32" alt="English · selected"></a>
+<a href="https://github.com/mrjakeball/mrjakeball/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/profile-en.svg" height="32" alt="Profile"></a>
+</p>
+
+**Applications, training tools and engineering practice.**
+
+The private project showcases pair real screens with implementation notes. The practice section includes Postman collections you can run yourself.
 
 ## Engineering practice
 
-**[AppSec Labs](https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md)** — three web security reports, two SAST exercises and one functional API exercise.
+**[AppSec Labs](https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md)** — access control, Python static analysis and functional REST API checks.
 
 **[Postman QA](https://github.com/mrjakeball/qa-learning-portfolio/blob/main/README_EN.md)** — an importable JSONPlaceholder collection with three GET and POST requests.
 
