@@ -1,205 +1,78 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Aleksei Kuzmin — project directory" width="100%" />
-</p>
+[RU](README.md) · **EN**　 /　 [Profile](https://github.com/mrjakeball/mrjakeball/blob/main/README_EN.md)
 
-<p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/РУССКИЙ-21262D?style=for-the-badge" alt="Русский" height="30" /></a>
-  &nbsp;
-  <a href="./README_EN.md"><img src="https://img.shields.io/badge/ENGLISH-8B5CF6?style=for-the-badge" alt="English" height="30" /></a>
-  &nbsp;
-  <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/PROFILE-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Back to profile" height="30" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/en-dark.svg">
+  <img src="assets/en-light.svg" alt="Project catalogue" width="100%">
+</picture>
 
-# 🚀 Project directory
+Two repositories contain hands-on exercises. Seven showcases document the interfaces and engineering decisions of private applications.
 
-Projects that I'm ready to **show, explain and discuss**.
+## Engineering practice
 
-Each card opens a dedicated public showcase with interfaces, important flows, technical decisions and current limitations.
+**[AppSec Labs](https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md)** — three web security reports, two SAST exercises and one functional API exercise.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌐_WEB-21262D?style=for-the-badge" alt="Web" height="25" />
-  <img src="https://img.shields.io/badge/🐍_PYTHON-21262D?style=for-the-badge" alt="Python" height="25" />
-  <img src="https://img.shields.io/badge/⚙️_DEVOPS-21262D?style=for-the-badge" alt="DevOps" height="25" />
-  <img src="https://img.shields.io/badge/🧪_QA-21262D?style=for-the-badge" alt="QA" height="25" />
-  <img src="https://img.shields.io/badge/📱_iOS_NEXT-21262D?style=for-the-badge" alt="iOS next" height="25" />
-</p>
+**[Postman QA](https://github.com/mrjakeball/qa-learning-portfolio/blob/main/README_EN.md)** — an importable JSONPlaceholder collection with three GET and POST requests.
 
-> ℹ️ **About these repositories:** these are public project showcases, not copies of private source repositories. Source code is published separately only after preparation and review.
+## Learning environments
 
----
+### [Kodograf VVGU](https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md)
 
-## ✅ Ready to use
+A browser workspace for learning Python. The student reads a task, edits code and sees its output in the same tab.
 
-### TEMPO PULSE
+[![Kodograf VVGU — Editor and execution output](https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md)
 
-`PWA` · `REACT` · `TYPESCRIPT` · `FITNESS`
+Next.js · Monaco Editor · Pyodide · Web Worker
 
-Workouts, nutrition, sleep, hydration and progress are brought together in one mobile experience.
+### [Linux & DevOps Trainer](https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md)
 
-Local storage and an offline-first approach keep the core functionality available without a permanent network connection.
+A trainer for Linux and DevOps fundamentals. A learner can read a filesystem lesson, explore its commands and move on to a lab or quiz.
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE" width="400" /></a>
-</p>
+[![Linux & DevOps Trainer — Filesystem lesson](https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><strong>View showcase →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://tempo-fitness-pwa.pages.dev/"><strong>Launch PWA ↗</strong></a>
-</p>
+Python · Streamlit
 
----
+## Applications and services
 
-### X-TREME Shop Bot
+### [TEMPO PULSE](https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md)
 
-`PYTHON` · `AIOGRAM` · `TELEGRAM` · `COMMERCE`
+A training and nutrition diary. The Today screen brings daily entries together, and the workout flow starts by asking where you plan to exercise.
 
-The bot guides a user from a product link and item parameters to delivery and fee calculations and finally to a structured request.
+[![TEMPO PULSE — Daily overview](https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot" width="400" /></a>
-</p>
+React 19 · TypeScript · Dexie · WebAuthn　·　[Open the app ↗](https://tempo-fitness-pwa.pages.dev/)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><strong>View showcase →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/XtremeShopBot"><strong>Open bot ↗</strong></a>
-</p>
+### [X-TREME Shop Bot](https://github.com/mrjakeball/xtreme-shop-bot-showcase/blob/main/README_EN.md)
 
----
+A Telegram bot for Poizon and Taobao purchase requests. A customer submits product links and options, reviews an estimate and confirms the order before an operator receives it.
 
-## 🎓 Learning and product projects
+[![X-TREME Shop Bot — Product details guide](https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/xtreme-shop-bot-showcase/blob/main/README_EN.md)
 
-### Kodograf VVGU
+Python 3.11 · aiogram 3 · SQLite · Pillow　·　[Open the bot ↗](https://t.me/XtremeShopBot)
 
-`PYTHON` · `NEXT.JS` · `MONACO` · `PYODIDE`
+### [Pashtel](https://github.com/mrjakeball/pashtel-showcase/blob/main/README_EN.md)
 
-A lesson, Monaco editor and real Python execution live together in one browser-based learning environment.
+A bakery storefront. Customers choose pastries, adjust quantities in the basket and move through a five-step checkout.
 
-Execution is isolated so running code does not block the main interface.
+[![Pashtel — Bakery storefront](https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/pashtel-showcase/blob/main/README_EN.md)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Kodograf VVGU" width="400" /></a>
-</p>
+Next.js · TypeScript
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><strong>View showcase →</strong></a>
-</p>
+## Interactive projects
 
----
+### [World Cup 2026 Predictor](https://github.com/mrjakeball/world-cup-2026-predictor-showcase/blob/main/README_EN.md)
 
-### Pashtel
+A football tournament predictor. Group results determine the knockout field, and a finished prediction can be saved, exported or shared as a code.
 
-`NEXT.JS` · `TYPESCRIPT` · `E-COMMERCE` · `UX`
+[![World Cup 2026 Predictor — Opening the live predictor](https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/world-cup-2026-predictor-showcase/blob/main/README_EN.md)
 
-A responsive bakery storefront guides the user from catalogue and cart through a clear multi-step checkout flow.
+React · TypeScript · Vite · Zustand · Vitest　·　[Open the predictor ↗](https://courageous-elf-34b597.netlify.app/)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel" width="400" /></a>
-</p>
+### [NOCTRA / LUCID-1](https://github.com/mrjakeball/noctra-lucid-1-showcase/blob/main/README_EN.md)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/pashtel-showcase"><strong>View showcase →</strong></a>
-</p>
+Eight scenes explore a fictional device. Scrolling moves the viewer from its silhouette to an exploded view and a technical dossier.
 
----
+[![NOCTRA / LUCID-1 — Device silhouette](https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/noctra-lucid-1-showcase/blob/main/README_EN.md)
 
-## 🧩 Interactive and engineering practice
+React · Three.js · React Three Fiber · GSAP · Web Audio
 
-### NOCTRA / LUCID-1
-
-`REACT` · `THREE.JS` · `R3F` · `GSAP`
-
-Eight connected scenes reveal a 3D object through light, materials, motion, sound and scrolling.
-
-Simplified scenarios and reduced-motion support are available for more constrained devices.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1" width="400" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><strong>View showcase →</strong></a>
-</p>
-
----
-
-### World Cup 2026 Predictor
-
-`REACT` · `ZUSTAND` · `VITEST` · `EXPORT`
-
-The prediction flow runs from the group stage and best third-placed teams through knockouts, individual awards and result export.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor" width="400" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><strong>View showcase →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://courageous-elf-34b597.netlify.app"><strong>Open site ↗</strong></a>
-</p>
-
----
-
-## 🛠️ Linux & DevOps practice
-
-### Linux & DevOps Trainer
-
-`PYTHON` · `LINUX` · `DEVOPS` · `TESTING`
-
-Linux and DevOps topics are turned into short explanations, tests, labs and a learning terminal.
-
-Commands are processed inside a safe simulation instead of being executed directly on the user's system.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux & DevOps Trainer" width="400" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><strong>View showcase →</strong></a>
-</p>
-
----
-
-## 📱 Next project · iOS
-
-### CineFlow
-
-`SWIFT` · `UIKIT` · `MVVM` · `ROADMAP`
-
-A roadmap for a native iOS catalogue with search, movie details, favourites and legal trailer playback.
-
-Development has not started yet — the showcase records the first-version boundaries, architectural direction and definition of ready.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS" width="400" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><strong>View roadmap →</strong></a>
-</p>
-
----
-
-<details>
-<summary><strong>📂 All projects in one list</strong></summary>
-
-<br />
-
-- [TEMPO PULSE](https://github.com/mrjakeball/tempo-pulse-showcase)
-- [X-TREME Shop Bot](https://github.com/mrjakeball/xtreme-shop-bot-showcase)
-- [Kodograf VVGU](https://github.com/mrjakeball/kodograf-vvgu-showcase)
-- [Pashtel](https://github.com/mrjakeball/pashtel-showcase)
-- [NOCTRA / LUCID-1](https://github.com/mrjakeball/noctra-lucid-1-showcase)
-- [World Cup 2026 Predictor](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)
-- [Linux & DevOps Trainer](https://github.com/mrjakeball/linux-devops-trainer-showcase)
-- [CineFlow iOS](https://github.com/mrjakeball/cineflow-ios-showcase)
-
-</details>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/BACK_TO_PROFILE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Back to profile" height="30" /></a>
-</p>
+[Telegram · @a1e5hka](https://t.me/a1e5hka)　·　[kuzmin_aleksey2004@mail.ru](mailto:kuzmin_aleksey2004@mail.ru)　·　[GitHub](https://github.com/mrjakeball)

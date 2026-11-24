@@ -1,205 +1,78 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Aleksei Kuzmin — каталог проектов" width="100%" />
-</p>
+**RU** · [EN](README_EN.md)　 /　 [Профиль](https://github.com/mrjakeball)
 
-<p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/РУССКИЙ-8B5CF6?style=for-the-badge" alt="Русский" height="30" /></a>
-  &nbsp;
-  <a href="./README_EN.md"><img src="https://img.shields.io/badge/ENGLISH-21262D?style=for-the-badge" alt="English" height="30" /></a>
-  &nbsp;
-  <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/ПРОФИЛЬ-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Вернуться в профиль" height="30" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ru-dark.svg">
+  <img src="assets/ru-light.svg" alt="Каталог проектов" width="100%">
+</picture>
 
-# 🚀 Каталог проектов
+Два репозитория содержат материалы практики. Семь витрин показывают интерфейсы и технические решения приватных приложений.
 
-Здесь собраны проекты, которые я готов **показать, объяснить и обсудить**.
+## Инженерная практика
 
-Каждая карточка ведёт в отдельную публичную витрину с интерфейсом, ключевыми сценариями, техническими решениями и текущими ограничениями.
+**[AppSec Labs](https://github.com/mrjakeball/appsec-labs)** — три отчёта Web Security, два исследования SAST и одна работа по функциональному тестированию API.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌐_WEB-21262D?style=for-the-badge" alt="Web" height="25" />
-  <img src="https://img.shields.io/badge/🐍_PYTHON-21262D?style=for-the-badge" alt="Python" height="25" />
-  <img src="https://img.shields.io/badge/⚙️_DEVOPS-21262D?style=for-the-badge" alt="DevOps" height="25" />
-  <img src="https://img.shields.io/badge/🧪_QA-21262D?style=for-the-badge" alt="QA" height="25" />
-  <img src="https://img.shields.io/badge/📱_iOS_NEXT-21262D?style=for-the-badge" alt="iOS next" height="25" />
-</p>
+**[Postman QA](https://github.com/mrjakeball/qa-learning-portfolio)** — коллекция JSONPlaceholder с тремя запросами GET и POST, которую можно импортировать и запустить.
 
-> ℹ️ **О репозиториях:** это публичные витрины проектов, а не копии приватных исходников. Код публикуется отдельно только после подготовки и проверки.
+## Учебные среды
 
----
+### [Кодограф ВВГУ](https://github.com/mrjakeball/kodograf-vvgu-showcase)
 
-## ✅ Можно запустить
+Учебная среда для Python. Студент читает задание, редактирует код и видит результат запуска в той же вкладке.
 
-### TEMPO PULSE
+[![Кодограф ВВГУ — Редактор и результат запуска](https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/kodograf-vvgu-showcase)
 
-`PWA` · `REACT` · `TYPESCRIPT` · `FITNESS`
+Next.js · Monaco Editor · Pyodide · Web Worker
 
-Тренировки, питание, сон, вода и прогресс собраны в один мобильный сценарий.
+### [Linux & DevOps Trainer](https://github.com/mrjakeball/linux-devops-trainer-showcase)
 
-Локальное хранение и offline-first подход позволяют использовать основные возможности без постоянного подключения к сети.
+Тренажёр для изучения Linux и основ DevOps. Тему о файловой системе можно прочитать, разобрать команды и перейти к лабораторной или тесту.
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/card.svg" alt="TEMPO PULSE" width="400" /></a>
-</p>
+[![Linux & DevOps Trainer — Тема о файловой системе](https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/linux-devops-trainer-showcase)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/tempo-pulse-showcase"><strong>Смотреть витрину →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://tempo-fitness-pwa.pages.dev/"><strong>Открыть PWA ↗</strong></a>
-</p>
+Python · Streamlit
 
----
+## Приложения и сервисы
 
-### X-TREME Shop Bot
+### [TEMPO PULSE](https://github.com/mrjakeball/tempo-pulse-showcase)
 
-`PYTHON` · `AIOGRAM` · `TELEGRAM` · `COMMERCE`
+Дневник тренировок и питания. На экране «Сегодня» собраны показатели дня, а перед тренировкой можно выбрать, где заниматься.
 
-Бот проводит пользователя от ссылки на товар и его параметров до расчёта доставки, комиссий и итоговой заявки.
+[![TEMPO PULSE — Сводка дня](https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/tempo-pulse-showcase)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/card.svg" alt="X-TREME Shop Bot" width="400" /></a>
-</p>
+React 19 · TypeScript · Dexie · WebAuthn　·　[Открыть приложение ↗](https://tempo-fitness-pwa.pages.dev/)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><strong>Смотреть витрину →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/XtremeShopBot"><strong>Открыть бота ↗</strong></a>
-</p>
+### [X-TREME Shop Bot](https://github.com/mrjakeball/xtreme-shop-bot-showcase)
 
----
+Бот оформляет заявку на покупку с Poizon или Taobao. Покупатель передаёт ссылки и параметры товаров, видит предварительный расчёт и подтверждает состав заказа перед передачей оператору.
 
-## 🎓 Учебные и продуктовые сценарии
+[![X-TREME Shop Bot — Инструкция по параметрам товара](https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/xtreme-shop-bot-showcase)
 
-### Кодограф ВВГУ
+Python 3.11 · aiogram 3 · SQLite · Pillow　·　[Открыть бота ↗](https://t.me/XtremeShopBot)
 
-`PYTHON` · `NEXT.JS` · `MONACO` · `PYODIDE`
+### [Pashtel](https://github.com/mrjakeball/pashtel-showcase)
 
-Урок, Monaco-редактор и реальный запуск Python находятся в одной браузерной среде.
+Интернет-витрина пекарни. Покупатель выбирает выпечку, меняет количество в корзине и проходит пять шагов оформления.
 
-Выполнение вынесено отдельно, чтобы запуск кода не блокировал основной интерфейс.
+[![Pashtel — Витрина пекарни](https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/pashtel-showcase)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/card.svg" alt="Кодограф ВВГУ" width="400" /></a>
-</p>
+Next.js · TypeScript
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><strong>Смотреть витрину →</strong></a>
-</p>
+## Интерактивные проекты
 
----
+### [World Cup 2026 Predictor](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)
 
-### Pashtel
+Конструктор футбольного прогноза. Результаты групп определяют участников плей-офф, а итоговый прогноз можно сохранить, экспортировать или передать через share-code.
 
-`NEXT.JS` · `TYPESCRIPT` · `E-COMMERCE` · `UX`
+[![World Cup 2026 Predictor — Начало прогноза в опубликованной версии](https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)
 
-Адаптивная витрина пекарни ведёт пользователя от каталога и корзины до пошагового оформления заказа.
+React · TypeScript · Vite · Zustand · Vitest　·　[Открыть прогноз ↗](https://courageous-elf-34b597.netlify.app/)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/card.svg" alt="Pashtel" width="400" /></a>
-</p>
+### [NOCTRA / LUCID-1](https://github.com/mrjakeball/noctra-lucid-1-showcase)
 
-<p align="center">
-  <a href="https://github.com/mrjakeball/pashtel-showcase"><strong>Смотреть витрину →</strong></a>
-</p>
+Восемь сцен раскрывают устройство вымышленного объекта. Прокрутка ведёт от силуэта к послойному разбору конструкции и техническому досье.
 
----
+[![NOCTRA / LUCID-1 — Общий вид устройства](https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/noctra-lucid-1-showcase)
 
-## 🧩 Интерактив и инженерная практика
+React · Three.js · React Three Fiber · GSAP · Web Audio
 
-### NOCTRA / LUCID-1
-
-`REACT` · `THREE.JS` · `R3F` · `GSAP`
-
-Восемь связанных сцен раскрывают 3D-объект через свет, материалы, движение, звук и прокрутку.
-
-Для более слабых устройств предусмотрены упрощённые сценарии и reduced motion.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/card.svg" alt="NOCTRA / LUCID-1" width="400" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><strong>Смотреть витрину →</strong></a>
-</p>
-
----
-
-### World Cup 2026 Predictor
-
-`REACT` · `ZUSTAND` · `VITEST` · `EXPORT`
-
-Прогноз проходит от группового этапа и лучших третьих мест до плей-офф, индивидуальных наград и экспорта результата.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/card.svg" alt="World Cup 2026 Predictor" width="400" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><strong>Смотреть витрину →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://courageous-elf-34b597.netlify.app"><strong>Открыть сайт ↗</strong></a>
-</p>
-
----
-
-## 🛠️ Linux & DevOps практика
-
-### Linux & DevOps Trainer
-
-`PYTHON` · `LINUX` · `DEVOPS` · `TESTING`
-
-Темы по Linux и DevOps превращены в короткие объяснения, тесты, лаборатории и учебный терминал.
-
-Команды разбираются внутри безопасной симуляции и не выполняются напрямую в системе пользователя.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/card.svg" alt="Linux & DevOps Trainer" width="400" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><strong>Смотреть витрину →</strong></a>
-</p>
-
----
-
-## 📱 Следующий проект · iOS
-
-### CineFlow
-
-`SWIFT` · `UIKIT` · `MVVM` · `ROADMAP`
-
-План нативного iOS-каталога с поиском, карточкой фильма, избранным и легальным воспроизведением трейлеров.
-
-Разработка ещё не начата — витрина фиксирует границы первой версии, архитектурное направление и критерии готовности.
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/cineflow-ios-showcase/main/assets/card.svg" alt="CineFlow iOS" width="400" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjakeball/cineflow-ios-showcase"><strong>Посмотреть roadmap →</strong></a>
-</p>
-
----
-
-<details>
-<summary><strong>📂 Все проекты одним списком</strong></summary>
-
-<br />
-
-- [TEMPO PULSE](https://github.com/mrjakeball/tempo-pulse-showcase)
-- [X-TREME Shop Bot](https://github.com/mrjakeball/xtreme-shop-bot-showcase)
-- [Кодограф ВВГУ](https://github.com/mrjakeball/kodograf-vvgu-showcase)
-- [Pashtel](https://github.com/mrjakeball/pashtel-showcase)
-- [NOCTRA / LUCID-1](https://github.com/mrjakeball/noctra-lucid-1-showcase)
-- [World Cup 2026 Predictor](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)
-- [Linux & DevOps Trainer](https://github.com/mrjakeball/linux-devops-trainer-showcase)
-- [CineFlow iOS](https://github.com/mrjakeball/cineflow-ios-showcase)
-
-</details>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/ВЕРНУТЬСЯ_В_ПРОФИЛЬ-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Вернуться в профиль" height="30" /></a>
-</p>
+[Telegram · @a1e5hka](https://t.me/a1e5hka)　·　[kuzmin_aleksey2004@mail.ru](mailto:kuzmin_aleksey2004@mail.ru)　·　[GitHub](https://github.com/mrjakeball)
