@@ -21,64 +21,78 @@
 
 ## Учебные среды
 
-### [Кодограф ВВГУ](https://github.com/mrjakeball/kodograf-vvgu-showcase)
-
-Учебная среда для Python. Студент читает задание, редактирует код и видит результат запуска в той же вкладке.
+### Кодограф ВВГУ
 
 [![Кодограф ВВГУ — Редактор и результат запуска](https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/kodograf-vvgu-showcase)
 
-Next.js · Monaco Editor · Pyodide · Web Worker
+Учебная среда для Python. Студент читает задание, редактирует код и видит результат запуска в той же вкладке.
 
-### [Linux & DevOps Trainer](https://github.com/mrjakeball/linux-devops-trainer-showcase)
+<sub>Next.js · Monaco Editor · Pyodide · Web Worker</sub>
 
-Тренажёр для изучения Linux и основ DevOps. Тему о файловой системе можно прочитать, разобрать команды и перейти к лабораторной или тесту.
+[Открыть витрину ↗](https://github.com/mrjakeball/kodograf-vvgu-showcase)
+
+### Linux & DevOps Trainer
 
 [![Linux & DevOps Trainer — Тема о файловой системе](https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/linux-devops-trainer-showcase)
 
-Python · Streamlit
+Тренажёр для изучения Linux и основ DevOps. Тему о файловой системе можно прочитать, разобрать команды и перейти к лабораторной или тесту.
+
+<sub>Python · Streamlit</sub>
+
+[Открыть витрину ↗](https://github.com/mrjakeball/linux-devops-trainer-showcase)
 
 ## Приложения и сервисы
 
-### [TEMPO PULSE](https://github.com/mrjakeball/tempo-pulse-showcase)
-
-Дневник тренировок и питания. На экране «Сегодня» собраны показатели дня, а перед тренировкой можно выбрать, где заниматься.
+### TEMPO PULSE
 
 [![TEMPO PULSE — Сводка дня](https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/tempo-pulse-showcase)
 
-React 19 · TypeScript · Dexie · WebAuthn　·　[Открыть приложение ↗](https://tempo-fitness-pwa.pages.dev/)
+Дневник тренировок и питания. На экране «Сегодня» собраны показатели дня, а перед тренировкой можно выбрать, где заниматься.
 
-### [X-TREME Shop Bot](https://github.com/mrjakeball/xtreme-shop-bot-showcase)
+<sub>React 19 · TypeScript · Dexie · WebAuthn</sub>
 
-Бот оформляет заявку на покупку с Poizon или Taobao. Покупатель передаёт ссылки и параметры товаров, видит предварительный расчёт и подтверждает состав заказа перед передачей оператору.
+[Открыть витрину ↗](https://github.com/mrjakeball/tempo-pulse-showcase)　·　[Открыть приложение ↗](https://tempo-fitness-pwa.pages.dev/)
+
+### X-TREME Shop Bot
 
 [![X-TREME Shop Bot — Инструкция по параметрам товара](https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/xtreme-shop-bot-showcase)
 
-Python 3.11 · aiogram 3 · SQLite · Pillow　·　[Открыть бота ↗](https://t.me/XtremeShopBot)
+Бот оформляет заявку на покупку с Poizon или Taobao. Покупатель передаёт ссылки и параметры товаров, видит предварительный расчёт и подтверждает состав заказа перед передачей оператору.
 
-### [Pashtel](https://github.com/mrjakeball/pashtel-showcase)
+<sub>Python 3.11 · aiogram 3 · SQLite · Pillow</sub>
 
-Интернет-витрина пекарни. Покупатель выбирает выпечку, меняет количество в корзине и проходит пять шагов оформления.
+[Открыть витрину ↗](https://github.com/mrjakeball/xtreme-shop-bot-showcase)　·　[Открыть бота ↗](https://t.me/XtremeShopBot)
+
+### Pashtel
 
 [![Pashtel — Витрина пекарни](https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/pashtel-showcase)
 
-Next.js · TypeScript
+Интернет-витрина пекарни. Покупатель выбирает выпечку, меняет количество в корзине и проходит пять шагов оформления.
+
+<sub>Next.js · TypeScript</sub>
+
+[Открыть витрину ↗](https://github.com/mrjakeball/pashtel-showcase)
 
 ## Интерактивные проекты
 
-### [World Cup 2026 Predictor](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)
-
-Конструктор футбольного прогноза. Результаты групп определяют участников плей-офф, а итоговый прогноз можно сохранить, экспортировать или передать через share-code.
+### World Cup 2026 Predictor
 
 [![World Cup 2026 Predictor — Начало прогноза в опубликованной версии](https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)
 
-React · TypeScript · Vite · Zustand · Vitest　·　[Открыть прогноз ↗](https://courageous-elf-34b597.netlify.app/)
+Конструктор футбольного прогноза. Результаты групп определяют участников плей-офф, а итоговый прогноз можно сохранить, экспортировать или передать через share-code.
 
-### [NOCTRA / LUCID-1](https://github.com/mrjakeball/noctra-lucid-1-showcase)
+<sub>React · TypeScript · Vite · Zustand · Vitest</sub>
 
-Восемь сцен раскрывают устройство вымышленного объекта. Прокрутка ведёт от силуэта к послойному разбору конструкции и техническому досье.
+[Открыть витрину ↗](https://github.com/mrjakeball/world-cup-2026-predictor-showcase)　·　[Открыть прогноз ↗](https://courageous-elf-34b597.netlify.app/)
+
+### NOCTRA / LUCID-1
 
 [![NOCTRA / LUCID-1 — Общий вид устройства](https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/noctra-lucid-1-showcase)
 
-React · Three.js · React Three Fiber · GSAP · Web Audio
+Восемь сцен раскрывают устройство вымышленного объекта. Прокрутка ведёт от силуэта к послойному разбору конструкции и техническому досье.
+
+<sub>React · Three.js · React Three Fiber · GSAP · Web Audio</sub>
+
+[Открыть витрину ↗](https://github.com/mrjakeball/noctra-lucid-1-showcase)
 
 [Telegram · @a1e5hka](https://t.me/a1e5hka)　·　[kuzmin_aleksey2004@mail.ru](mailto:kuzmin_aleksey2004@mail.ru)　·　[GitHub](https://github.com/mrjakeball)

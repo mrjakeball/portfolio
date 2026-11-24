@@ -21,64 +21,78 @@ The private project showcases pair real screens with implementation notes. The p
 
 ## Learning environments
 
-### [Kodograf VVGU](https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md)
-
-A browser workspace for learning Python. The student reads a task, edits code and sees its output in the same tab.
+### Kodograf VVGU
 
 [![Kodograf VVGU — Editor and execution output](https://raw.githubusercontent.com/mrjakeball/kodograf-vvgu-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md)
 
-Next.js · Monaco Editor · Pyodide · Web Worker
+A browser workspace for learning Python. The student reads a task, edits code and sees its output in the same tab.
 
-### [Linux & DevOps Trainer](https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md)
+<sub>Next.js · Monaco Editor · Pyodide · Web Worker</sub>
 
-A trainer for Linux and DevOps fundamentals. A learner can read a filesystem lesson, explore its commands and move on to a lab or quiz.
+[View showcase ↗](https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md)
+
+### Linux & DevOps Trainer
 
 [![Linux & DevOps Trainer — Filesystem lesson](https://raw.githubusercontent.com/mrjakeball/linux-devops-trainer-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md)
 
-Python · Streamlit
+A trainer for Linux and DevOps fundamentals. A learner can read a filesystem lesson, explore its commands and move on to a lab or quiz.
+
+<sub>Python · Streamlit</sub>
+
+[View showcase ↗](https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md)
 
 ## Applications and services
 
-### [TEMPO PULSE](https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md)
-
-A training and nutrition diary. The Today screen brings daily entries together, and the workout flow starts by asking where you plan to exercise.
+### TEMPO PULSE
 
 [![TEMPO PULSE — Daily overview](https://raw.githubusercontent.com/mrjakeball/tempo-pulse-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md)
 
-React 19 · TypeScript · Dexie · WebAuthn　·　[Open the app ↗](https://tempo-fitness-pwa.pages.dev/)
+A training and nutrition diary. The Today screen brings daily entries together, and the workout flow starts by asking where you plan to exercise.
 
-### [X-TREME Shop Bot](https://github.com/mrjakeball/xtreme-shop-bot-showcase/blob/main/README_EN.md)
+<sub>React 19 · TypeScript · Dexie · WebAuthn</sub>
 
-A Telegram bot for Poizon and Taobao purchase requests. A customer submits product links and options, reviews an estimate and confirms the order before an operator receives it.
+[View showcase ↗](https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md)　·　[Open the app ↗](https://tempo-fitness-pwa.pages.dev/)
+
+### X-TREME Shop Bot
 
 [![X-TREME Shop Bot — Product details guide](https://raw.githubusercontent.com/mrjakeball/xtreme-shop-bot-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/xtreme-shop-bot-showcase/blob/main/README_EN.md)
 
-Python 3.11 · aiogram 3 · SQLite · Pillow　·　[Open the bot ↗](https://t.me/XtremeShopBot)
+A Telegram bot for Poizon and Taobao purchase requests. A customer submits product links and options, reviews an estimate and confirms the order before an operator receives it.
 
-### [Pashtel](https://github.com/mrjakeball/pashtel-showcase/blob/main/README_EN.md)
+<sub>Python 3.11 · aiogram 3 · SQLite · Pillow</sub>
 
-A bakery storefront. Customers choose pastries, adjust quantities in the basket and move through a five-step checkout.
+[View showcase ↗](https://github.com/mrjakeball/xtreme-shop-bot-showcase/blob/main/README_EN.md)　·　[Open the bot ↗](https://t.me/XtremeShopBot)
+
+### Pashtel
 
 [![Pashtel — Bakery storefront](https://raw.githubusercontent.com/mrjakeball/pashtel-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/pashtel-showcase/blob/main/README_EN.md)
 
-Next.js · TypeScript
+A bakery storefront. Customers choose pastries, adjust quantities in the basket and move through a five-step checkout.
+
+<sub>Next.js · TypeScript</sub>
+
+[View showcase ↗](https://github.com/mrjakeball/pashtel-showcase/blob/main/README_EN.md)
 
 ## Interactive projects
 
-### [World Cup 2026 Predictor](https://github.com/mrjakeball/world-cup-2026-predictor-showcase/blob/main/README_EN.md)
-
-A football tournament predictor. Group results determine the knockout field, and a finished prediction can be saved, exported or shared as a code.
+### World Cup 2026 Predictor
 
 [![World Cup 2026 Predictor — Opening the live predictor](https://raw.githubusercontent.com/mrjakeball/world-cup-2026-predictor-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/world-cup-2026-predictor-showcase/blob/main/README_EN.md)
 
-React · TypeScript · Vite · Zustand · Vitest　·　[Open the predictor ↗](https://courageous-elf-34b597.netlify.app/)
+A football tournament predictor. Group results determine the knockout field, and a finished prediction can be saved, exported or shared as a code.
 
-### [NOCTRA / LUCID-1](https://github.com/mrjakeball/noctra-lucid-1-showcase/blob/main/README_EN.md)
+<sub>React · TypeScript · Vite · Zustand · Vitest</sub>
 
-Eight scenes explore a fictional device. Scrolling moves the viewer from its silhouette to an exploded view and a technical dossier.
+[View showcase ↗](https://github.com/mrjakeball/world-cup-2026-predictor-showcase/blob/main/README_EN.md)　·　[Open the predictor ↗](https://courageous-elf-34b597.netlify.app/)
+
+### NOCTRA / LUCID-1
 
 [![NOCTRA / LUCID-1 — Device silhouette](https://raw.githubusercontent.com/mrjakeball/noctra-lucid-1-showcase/main/assets/social-preview.jpg)](https://github.com/mrjakeball/noctra-lucid-1-showcase/blob/main/README_EN.md)
 
-React · Three.js · React Three Fiber · GSAP · Web Audio
+Eight scenes explore a fictional device. Scrolling moves the viewer from its silhouette to an exploded view and a technical dossier.
+
+<sub>React · Three.js · React Three Fiber · GSAP · Web Audio</sub>
+
+[View showcase ↗](https://github.com/mrjakeball/noctra-lucid-1-showcase/blob/main/README_EN.md)
 
 [Telegram · @a1e5hka](https://t.me/a1e5hka)　·　[kuzmin_aleksey2004@mail.ru](mailto:kuzmin_aleksey2004@mail.ru)　·　[GitHub](https://github.com/mrjakeball)
