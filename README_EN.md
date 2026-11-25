@@ -15,7 +15,7 @@ The private project showcases pair real screens with implementation notes. The p
 
 ## Engineering practice
 
-<a href="https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/appsec.svg" height="36" alt="AppSec Labs"></a> — access control, Python static analysis and functional REST API checks.
+<a href="https://github.com/mrjakeball/appsec-labs/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/appsec.svg" height="36" alt="AppSec Labs"></a> — access control, Python static analysis and functional REST API checks.
 
 **[Postman QA](https://github.com/mrjakeball/qa-learning-portfolio/blob/main/README_EN.md)** — an importable JSONPlaceholder collection with three GET and POST requests.
 
@@ -29,7 +29,7 @@ A browser workspace for learning Python. The student reads a task, edits code an
 
 <sub>Next.js · Monaco Editor · Pyodide · Web Worker</sub>
 
-<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-en.svg" height="36" alt="View showcase"></a>
+<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-en.svg" height="36" alt="View showcase"></a>
 
 ### Linux & DevOps Trainer
 
@@ -39,7 +39,7 @@ A trainer for Linux and DevOps fundamentals. A learner can read a filesystem les
 
 <sub>Python · Streamlit</sub>
 
-<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-en.svg" height="36" alt="View showcase"></a>
+<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-en.svg" height="36" alt="View showcase"></a>
 
 ## Applications and services
 
@@ -51,7 +51,7 @@ A training and nutrition diary. The Today screen brings daily entries together, 
 
 <sub>React 19 · TypeScript · Dexie · WebAuthn</sub>
 
-<a href="https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-en.svg" height="36" alt="View showcase"></a> <a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/app-en.svg" height="36" alt="Open the app"></a>
+<a href="https://github.com/mrjakeball/tempo-pulse-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-en.svg" height="36" alt="View showcase"></a> <a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/app-en.svg" height="36" alt="Open the app"></a>
 
 ### X-TREME Shop Bot
 
@@ -61,7 +61,7 @@ A Telegram bot for Poizon and Taobao purchase requests. A customer submits produ
 
 <sub>Python 3.11 · aiogram 3 · SQLite · Pillow</sub>
 
-<a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-en.svg" height="36" alt="View showcase"></a> <a href="https://t.me/XtremeShopBot"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/bot-en.svg" height="36" alt="Open the bot"></a>
+<a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-en.svg" height="36" alt="View showcase"></a> <a href="https://t.me/XtremeShopBot"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/bot-en.svg" height="36" alt="Open the bot"></a>
 
 ### Pashtel
 
@@ -71,7 +71,7 @@ A bakery storefront. Customers choose pastries, adjust quantities in the basket 
 
 <sub>Next.js · TypeScript</sub>
 
-<a href="https://github.com/mrjakeball/pashtel-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-en.svg" height="36" alt="View showcase"></a>
+<a href="https://github.com/mrjakeball/pashtel-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-en.svg" height="36" alt="View showcase"></a>
 
 ## Interactive projects
 
@@ -83,7 +83,7 @@ A football tournament predictor. Group results determine the knockout field, and
 
 <sub>React · TypeScript · Vite · Zustand · Vitest</sub>
 
-<a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-en.svg" height="36" alt="View showcase"></a> <a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/cup-en.svg" height="36" alt="Open the predictor"></a>
+<a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-en.svg" height="36" alt="View showcase"></a> <a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/cup-en.svg" height="36" alt="Open the predictor"></a>
 
 ### NOCTRA / LUCID-1
 
@@ -93,7 +93,7 @@ Eight scenes explore a fictional device. Scrolling moves the viewer from its sil
 
 <sub>React · Three.js · React Three Fiber · GSAP · Web Audio</sub>
 
-<a href="https://github.com/mrjakeball/noctra-lucid-1-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-en.svg" height="36" alt="View showcase"></a>
+<a href="https://github.com/mrjakeball/noctra-lucid-1-showcase/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-en.svg" height="36" alt="View showcase"></a>
 
 <p>
 <a href="https://t.me/a1e5hka"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/telegram.svg" height="54" alt="Telegram · @a1e5hka"></a>

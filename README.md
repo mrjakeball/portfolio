@@ -15,7 +15,7 @@
 
 ## Инженерная практика
 
-<a href="https://github.com/mrjakeball/appsec-labs"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/appsec.svg" height="36" alt="AppSec Labs"></a> — контроль доступа, статический анализ Python и функциональные проверки REST API.
+<a href="https://github.com/mrjakeball/appsec-labs"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/appsec.svg" height="36" alt="AppSec Labs"></a> — контроль доступа, статический анализ Python и функциональные проверки REST API.
 
 **[Postman QA](https://github.com/mrjakeball/qa-learning-portfolio)** — коллекция JSONPlaceholder с тремя запросами GET и POST, которую можно импортировать и запустить.
 
@@ -29,7 +29,7 @@
 
 <sub>Next.js · Monaco Editor · Pyodide · Web Worker</sub>
 
-<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
+<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
 
 ### Linux & DevOps Trainer
 
@@ -39,7 +39,7 @@
 
 <sub>Python · Streamlit</sub>
 
-<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
+<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
 
 ## Приложения и сервисы
 
@@ -51,7 +51,7 @@
 
 <sub>React 19 · TypeScript · Dexie · WebAuthn</sub>
 
-<a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/app-ru.svg" height="36" alt="Открыть приложение"></a>
+<a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/app-ru.svg" height="36" alt="Открыть приложение"></a>
 
 ### X-TREME Shop Bot
 
@@ -61,7 +61,7 @@
 
 <sub>Python 3.11 · aiogram 3 · SQLite · Pillow</sub>
 
-<a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://t.me/XtremeShopBot"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/bot-ru.svg" height="36" alt="Открыть бота"></a>
+<a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://t.me/XtremeShopBot"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/bot-ru.svg" height="36" alt="Открыть бота"></a>
 
 ### Pashtel
 
@@ -71,7 +71,7 @@
 
 <sub>Next.js · TypeScript</sub>
 
-<a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
+<a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
 
 ## Интерактивные проекты
 
@@ -83,7 +83,7 @@
 
 <sub>React · TypeScript · Vite · Zustand · Vitest</sub>
 
-<a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/cup-ru.svg" height="36" alt="Открыть прогноз"></a>
+<a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/cup-ru.svg" height="36" alt="Открыть прогноз"></a>
 
 ### NOCTRA / LUCID-1
 
@@ -93,7 +93,7 @@
 
 <sub>React · Three.js · React Three Fiber · GSAP · Web Audio</sub>
 
-<a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
+<a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
 
 <p>
 <a href="https://t.me/a1e5hka"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/telegram.svg" height="54" alt="Telegram · @a1e5hka"></a>
