@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/satin-ru-dark.svg">
-  <img src="assets/satin-ru-light.svg" alt="Каталог проектов" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/inlay-ru-dark.svg">
+  <img src="assets/inlay-ru-light.svg" alt="Каталог проектов" width="100%">
 </picture>
 
-<p>
-<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on.svg" height="44" alt="Русский · выбран"></a>
-<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off.svg" height="44" alt="English"></a>
-<a href="https://github.com/mrjakeball"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-ru.svg" height="44" alt="Профиль"></a>
+<p align="center">
+<a href="README.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on.svg?v=2" height="56" alt="Русский · выбран"></picture></a>
+<a href="README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off.svg?v=2" height="56" alt="English"></picture></a>
+<a href="https://github.com/mrjakeball"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-ru-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-ru.svg?v=2" height="56" alt="Профиль"></picture></a>
 </p>
 
 **Приложения, тренажёры и инженерная практика.**

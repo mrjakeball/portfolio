@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/satin-en-dark.svg">
-  <img src="assets/satin-en-light.svg" alt="Project catalogue" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/inlay-en-dark.svg">
+  <img src="assets/inlay-en-light.svg" alt="Project catalogue" width="100%">
 </picture>
 
-<p>
-<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off.svg" height="44" alt="Русский"></a>
-<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on.svg" height="44" alt="English · selected"></a>
-<a href="https://github.com/mrjakeball/mrjakeball/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-en.svg" height="44" alt="Profile"></a>
+<p align="center">
+<a href="README.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off.svg?v=2" height="56" alt="Русский"></picture></a>
+<a href="README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on.svg?v=2" height="56" alt="English · selected"></picture></a>
+<a href="https://github.com/mrjakeball/mrjakeball/blob/main/README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-en-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-en.svg?v=2" height="56" alt="Profile"></picture></a>
 </p>
 
 **Applications, training tools and engineering practice.**
