@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-ru-dark.svg">
-  <img src="assets/flow-ru-light.svg" alt="Каталог проектов" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/satin-ru-dark.svg">
+  <img src="assets/satin-ru-light.svg" alt="Каталог проектов" width="100%">
 </picture>
 
 <p>
-<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/ru-on.svg" height="32" alt="Русский · выбран"></a>
-<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/en-off.svg" height="32" alt="English"></a>
-<a href="https://github.com/mrjakeball"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/profile-ru.svg" height="32" alt="Профиль"></a>
+<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on.svg" height="44" alt="Русский · выбран"></a>
+<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off.svg" height="44" alt="English"></a>
+<a href="https://github.com/mrjakeball"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-ru.svg" height="44" alt="Профиль"></a>
 </p>
 
 **Приложения, тренажёры и инженерная практика.**
@@ -15,9 +15,10 @@
 
 ## Инженерная практика
 
-<a href="https://github.com/mrjakeball/appsec-labs"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/appsec.svg" height="36" alt="AppSec Labs"></a> — контроль доступа, статический анализ Python и функциональные проверки REST API.
-
-**[Postman QA](https://github.com/mrjakeball/qa-learning-portfolio)** — коллекция JSONPlaceholder с тремя запросами GET и POST, которую можно импортировать и запустить.
+| Репозиторий | Материалы |
+| --- | --- |
+| <a href="https://github.com/mrjakeball/appsec-labs"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/appsec.svg" height="36" alt="AppSec Labs"></a> | Контроль доступа, статический анализ Python и функциональные проверки REST API. |
+| <a href="https://github.com/mrjakeball/qa-learning-portfolio"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/postman.svg" height="36" alt="Postman QA"></a> | Коллекция JSONPlaceholder с тремя запросами GET и POST, которую можно импортировать и запустить. |
 
 ## Учебные среды
 
@@ -29,7 +30,7 @@
 
 <sub>Next.js · Monaco Editor · Pyodide · Web Worker</sub>
 
-<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
+<a href="https://github.com/mrjakeball/kodograf-vvgu-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
 
 ### Linux & DevOps Trainer
 
@@ -39,7 +40,7 @@
 
 <sub>Python · Streamlit</sub>
 
-<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
+<a href="https://github.com/mrjakeball/linux-devops-trainer-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
 
 ## Приложения и сервисы
 
@@ -51,7 +52,7 @@
 
 <sub>React 19 · TypeScript · Dexie · WebAuthn</sub>
 
-<a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/app-ru.svg" height="36" alt="Открыть приложение"></a>
+<a href="https://github.com/mrjakeball/tempo-pulse-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/app-ru.svg" height="36" alt="Открыть приложение"></a>
 
 ### X-TREME Shop Bot
 
@@ -61,7 +62,7 @@
 
 <sub>Python 3.11 · aiogram 3 · SQLite · Pillow</sub>
 
-<a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://t.me/XtremeShopBot"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/bot-ru.svg" height="36" alt="Открыть бота"></a>
+<a href="https://github.com/mrjakeball/xtreme-shop-bot-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://t.me/XtremeShopBot"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/bot-ru.svg" height="36" alt="Открыть бота"></a>
 
 ### Pashtel
 
@@ -71,7 +72,7 @@
 
 <sub>Next.js · TypeScript</sub>
 
-<a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
+<a href="https://github.com/mrjakeball/pashtel-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
 
 ## Интерактивные проекты
 
@@ -83,7 +84,7 @@
 
 <sub>React · TypeScript · Vite · Zustand · Vitest</sub>
 
-<a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/cup-ru.svg" height="36" alt="Открыть прогноз"></a>
+<a href="https://github.com/mrjakeball/world-cup-2026-predictor-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/showcase-ru.svg" height="36" alt="Открыть витрину"></a> <a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/cup-ru.svg" height="36" alt="Открыть прогноз"></a>
 
 ### NOCTRA / LUCID-1
 
@@ -93,10 +94,10 @@
 
 <sub>React · Three.js · React Three Fiber · GSAP · Web Audio</sub>
 
-<a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
+<a href="https://github.com/mrjakeball/noctra-lucid-1-showcase"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/showcase-ru.svg" height="36" alt="Открыть витрину"></a>
 
 <p>
-<a href="https://t.me/a1e5hka"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/telegram.svg" height="54" alt="Telegram · @a1e5hka"></a>
-<a href="mailto:kuzmin_aleksey2004@mail.ru"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/email.svg" height="54" alt="Email · kuzmin_aleksey2004@mail.ru"></a>
-<a href="https://github.com/mrjakeball"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/github.svg" height="54" alt="GitHub · @mrjakeball"></a>
+<a href="https://t.me/a1e5hka"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/contact-cards/telegram.svg" height="54" alt="Telegram · @a1e5hka"></a>
+<a href="mailto:kuzmin_aleksey2004@mail.ru"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/contact-cards/email.svg" height="54" alt="Email · kuzmin_aleksey2004@mail.ru"></a>
+<a href="https://github.com/mrjakeball"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/contact-cards/github.svg" height="54" alt="GitHub · @mrjakeball"></a>
 </p>
