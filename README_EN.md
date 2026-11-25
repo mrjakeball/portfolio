@@ -3,10 +3,10 @@
   <img src="assets/inlay-en-light.svg" alt="Project catalogue" width="100%">
 </picture>
 
-<p align="center">
-<a href="README.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off.svg?v=2" height="56" alt="Русский"></picture></a>
-<a href="README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on.svg?v=2" height="56" alt="English · selected"></picture></a>
-<a href="https://github.com/mrjakeball/mrjakeball/blob/main/README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-en-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-en.svg?v=2" height="56" alt="Profile"></picture></a>
+<p>
+<a href="README.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off.svg?v=3" height="38" alt="Русский"></picture></a>
+<a href="README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on.svg?v=3" height="38" alt="English · selected"></picture></a>
+<a href="https://github.com/mrjakeball/mrjakeball/blob/main/README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-en-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-en.svg?v=3" height="38" alt="Profile"></picture></a>
 </p>
 
 **Applications, training tools and engineering practice.**

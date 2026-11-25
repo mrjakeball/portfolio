@@ -3,10 +3,10 @@
   <img src="assets/inlay-ru-light.svg" alt="Каталог проектов" width="100%">
 </picture>
 
-<p align="center">
-<a href="README.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on.svg?v=2" height="56" alt="Русский · выбран"></picture></a>
-<a href="README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off.svg?v=2" height="56" alt="English"></picture></a>
-<a href="https://github.com/mrjakeball"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-ru-compact.svg?v=2"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-ru.svg?v=2" height="56" alt="Профиль"></picture></a>
+<p>
+<a href="README.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on.svg?v=3" height="38" alt="Русский · выбран"></picture></a>
+<a href="README_EN.md"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off.svg?v=3" height="38" alt="English"></picture></a>
+<a href="https://github.com/mrjakeball"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-ru-compact.svg?v=3"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/profile-ru.svg?v=3" height="38" alt="Профиль"></picture></a>
 </p>
 
 **Приложения, тренажёры и инженерная практика.**
