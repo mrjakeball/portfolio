@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ru-dark.svg">
-  <img src="assets/ru-light.svg" alt="Каталог проектов" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-ru-dark.svg">
+  <img src="assets/flow-ru-light.svg" alt="Каталог проектов" width="100%">
 </picture>
 
 <p>
